@@ -1,0 +1,1 @@
+s is terraform script
